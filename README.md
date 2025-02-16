@@ -6,7 +6,8 @@
 I am a passionate and forward-thinking individual with a strong foundation in programming and a deep interest in exploring the potential of blockchain technology to create positive change. I am enthusiastic about contributing to open-source projects, collaborating with like-minded individuals, and keeping an open mind to new perspectives.
 <div align="center">
 <br>
-<img alt="snake eating my contribution" src="https://github.com/hilakshya/hilakshya/blob/output/github-contribution-grid-snake.svg">
+<img alt="snake eating my contribution" src="https://i.gifer.com/VNcv.gif">
+  
 <br>
 </div>
 
